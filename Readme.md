@@ -7,11 +7,11 @@
 
 ## Static landing page of Shopify website using **Tailwind** CSS.
 ## This is a fully Responsive website.
-### Click [here]() to see it live
+### Click [here](https://shopify-evolved.netlify.app/) to see it live
 
 ![Homepage](./images/Screenshot%202022-09-16%20at%2010.54.22%20PM.png)
 ![Homepage](./images/Screenshot%202022-09-16%20at%2010.54.29%20PM.png)
-<!-- ![Homepage](./images/Screenshot%202022-09-16%20at%2010.58.00%20PM.png) -->
+![Homepage](./images/Screenshot%202022-09-16%20at%2010.58.00%20PM.png)
 ![Homepage](./images/Screenshot%202022-09-16%20at%2010.54.58%20PM.png)
 ![Homepage](./images/Screenshot%202022-09-16%20at%2010.56.29%20PM.png)
 
